@@ -27,6 +27,7 @@ Unlike standard CTF walkthroughs, the reports herein focus heavily on:
 | **HackTheBox** | **Dancing** | Windows | Very Easy | SMB Shares (Port 445), Null Sessions, ACLs vs NTFS, Data Leakage | [View Report](./HackTheBox/Dancing/README.md) |
 | **HackTheBox** | **Fawn** | Linux | Very Easy | FTP RFC 959, Extended Passive Mode (EPSV), Anonymous Exfiltration | [View Report](./HackTheBox/Fawn/README.md) |
 | **HackTheBox** | **Meow** | Linux | Very Easy | Cleartext Protocols (Telnet), PAM Mechanics, Null Password Hash | [View Report](./HackTheBox/Meow/README.md) |
+| **HackTheBox** | **Redeemer** | Linux | Very Easy | Redis Protocol (RESP), In-Memory DBs, Unauthenticated Data Exfiltration | [View Report](./HackTheBox/Redeemer/README.md) |
 
 ---
 *Disclaimer: All vulnerabilities exploited and documented in this repository were conducted within authorized, simulated, and isolated lab environments.*
