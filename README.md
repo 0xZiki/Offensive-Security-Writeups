@@ -30,6 +30,7 @@ Unlike standard CTF walkthroughs, the reports herein focus heavily on:
 | **HackTheBox** | **Meow** | Linux | Very Easy | Cleartext Protocols (Telnet), PAM Mechanics, Null Password Hash | [View Report](./HackTheBox/Meow/README.md) |
 | **HackTheBox** | **Redeemer** | Linux | Very Easy | Redis Protocol (RESP), In-Memory DBs, Unauthenticated Data Exfiltration | [View Report](./HackTheBox/Redeemer/README.md) |
 | **HackTheBox** | **Appointment** | Linux | Very Easy | Boolean Logic, SQL Injection (SQLi), Authentication Bypass | [View Report](./HackTheBox/Appointment/README.md) |
+| **HackTheBox** | **Sequel** | Linux | Very Easy | DB Enumeration, SQL Syntax, MariaDB Unauthenticated Access | [View Report](./HackTheBox/Sequel/README.md) |
 
 
 ---
