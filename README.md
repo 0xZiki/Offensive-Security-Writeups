@@ -33,6 +33,7 @@ Unlike standard CTF walkthroughs, the reports herein focus heavily on:
 | **HackTheBox** | **Sequel** | Linux | Very Easy | DB Enumeration, SQL Syntax, MariaDB Unauthenticated Access | [View Report](./HackTheBox/Sequel/README.md) |
 | **HackTheBox** | **Crocodile** | Linux | Very Easy | Anonymous FTP Exfiltration, Directory Fuzzing, Credential Reuse | [View Report](./HackTheBox/Crocodile/README.md) |
 | **HackTheBox** | **Three** | Linux | Very Easy | VHost Routing, AWS S3 Misconfiguration, Public Bucket Write, PHP RCE | [View Report](./HackTheBox/Three/README.md) |
+| **HackTheBox** | **Responder** | Windows | Very Easy | LFI to UNC Path Injection, SMB NTLMv2 Coercion, WinRM | [View Report](./HackTheBox/Responder/README.md) |
 
 
 ---
