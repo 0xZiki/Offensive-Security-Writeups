@@ -25,6 +25,7 @@ Unlike standard CTF walkthroughs, the reports herein focus heavily on:
 | **TryHackMe** | **Agent Sudo** | Linux | Easy | CVE-2019-14287 (Sudo), HTTP Header Abuse, Binwalk/DD Carving | [View Report](./TryHackMe/Agent_Sudo/README.md) |
 | **TryHackMe** | **Blue** | Windows | Easy | MS17-010 Mechanics, NonPaged Pool Grooming, WMIExec Evasion | [View Report](./TryHackMe/Blue/README.md) |
 | **TryHackMe** | **Anonymous Playground** | Linux | Hard | IPS Evasion, Cookie Abuse, Custom Crypto Analysis, Binary Static Analysis | [View Report](./TryHackMe/Anonymous_Playground/README.md) |
+| **TryHackMe** | **Basic Pentesting** | Linux | Easy | OSINT, SSH Brute-Forcing, File Permission Abuse (644 vs 600), Offline RSA Cracking | [View Report](./TryHackMe/Basic_Pentesting/README.md) |
 | **HackTheBox** | **Dancing** | Windows | Very Easy | SMB Shares (Port 445), Null Sessions, ACLs vs NTFS, Data Leakage | [View Report](./HackTheBox/Dancing/README.md) |
 | **HackTheBox** | **Fawn** | Linux | Very Easy | FTP RFC 959, Extended Passive Mode (EPSV), Anonymous Exfiltration | [View Report](./HackTheBox/Fawn/README.md) |
 | **HackTheBox** | **Meow** | Linux | Very Easy | Cleartext Protocols (Telnet), PAM Mechanics, Null Password Hash | [View Report](./HackTheBox/Meow/README.md) |
