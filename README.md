@@ -27,6 +27,7 @@ Unlike standard CTF walkthroughs, the reports herein focus heavily on:
 | **TryHackMe** | **Anonymous Playground** | Linux | Hard | IPS Evasion, Cookie Abuse, Custom Crypto Analysis, Binary Static Analysis | [View Report](./TryHackMe/Anonymous_Playground/README.md) |
 | **TryHackMe** | **Basic Pentesting** | Linux | Easy | OSINT, SSH Brute-Forcing, File Permission Abuse (644 vs 600), Offline RSA Cracking | [View Report](./TryHackMe/Basic_Pentesting/README.md) |
 | **TryHackMe** | **Attacktive Directory** | Windows | Medium | Active Directory, AS-REP Roasting, DCSync, Pass-The-Hash, WinRM | [View Report](./TryHackMe/Attacktive_Directory/README.md) |
+| **TryHackMe** | **ColddBox: Easy** | Linux | Easy | OSINT, WPScan Brute-Force, CMS Theme RCE, GTFOBins (`find`) | [View Report](./TryHackMe/ColddBox_Easy/README.md) |
 | **HackTheBox** | **Dancing** | Windows | Very Easy | SMB Shares (Port 445), Null Sessions, ACLs vs NTFS, Data Leakage | [View Report](./HackTheBox/Dancing/README.md) |
 | **HackTheBox** | **Fawn** | Linux | Very Easy | FTP RFC 959, Extended Passive Mode (EPSV), Anonymous Exfiltration | [View Report](./HackTheBox/Fawn/README.md) |
 | **HackTheBox** | **Meow** | Linux | Very Easy | Cleartext Protocols (Telnet), PAM Mechanics, Null Password Hash | [View Report](./HackTheBox/Meow/README.md) |
