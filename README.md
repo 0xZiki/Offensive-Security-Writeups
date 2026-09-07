@@ -29,6 +29,7 @@ Unlike standard CTF walkthroughs, the reports herein focus heavily on:
 | **TryHackMe** | **Attacktive Directory** | Windows | Medium | Active Directory, AS-REP Roasting, DCSync, Pass-The-Hash, WinRM | [View Report](./TryHackMe/Attacktive_Directory/README.md) |
 | **TryHackMe** | **ColddBox: Easy** | Linux | Easy | OSINT, WPScan Brute-Force, CMS Theme RCE, GTFOBins (`find`) | [View Report](./TryHackMe/ColddBox_Easy/README.md) |
 | **TryHackMe** | **Bounty Hacker** | Linux | Easy | FTP Active/Passive Ports, SSH Brute-Force, `dash` EUID Dropping, `tar` PrivEsc | [View Report](./TryHackMe/Bounty_Hacker/README.md) |
+| **TryHackMe** | **Cyborg** | Linux | Easy | Web Path Recon, Apache `apr1` Hash Cracking, BorgBackup Extraction, Sudo Script (`getopts`) PrivEsc | [View Report](./TryHackMe/Cyborg/README.md) |
 | **HackTheBox** | **Dancing** | Windows | Very Easy | SMB Shares (Port 445), Null Sessions, ACLs vs NTFS, Data Leakage | [View Report](./HackTheBox/Dancing/README.md) |
 | **HackTheBox** | **Fawn** | Linux | Very Easy | FTP RFC 959, Extended Passive Mode (EPSV), Anonymous Exfiltration | [View Report](./HackTheBox/Fawn/README.md) |
 | **HackTheBox** | **Meow** | Linux | Very Easy | Cleartext Protocols (Telnet), PAM Mechanics, Null Password Hash | [View Report](./HackTheBox/Meow/README.md) |
