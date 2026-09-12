@@ -44,6 +44,7 @@ Unlike standard CTF walkthroughs, the reports herein focus heavily on:
 | **HackTheBox** | **Responder** | Windows | Very Easy | LFI to UNC Path Injection, SMB NTLMv2 Coercion, WinRM | [View Report](./HackTheBox/Responder/README.md) |
 | **HackTheBox** | **Vaccine** | Linux | Easy | Offline Cracking (MD5/Zip), PostgreSQL `COPY FROM PROGRAM`, GTFOBins `vi` Escape | [View Report](./HackTheBox/Vaccine/README.md) |
 | **HackTheBox** | **Archetype** | Windows | Very Easy | MSSQL Windows Auth, Egress Bypassing, LOLBins (`certutil`), PSReadLine History | [View Report](./HackTheBox/Archetype/REDME.md) |
+| **HackTheBox** | **Oopsie** | Linux | Easy | IDOR (Cookie Manipulation), File Upload, Hardcoded Credentials, SUID PATH Hijacking | [View Report](./HackTheBox/Oopsie/README.md) |
 | **OffSec** | **Potato** | Linux | Fundamental | PHP `strcmp` Type Juggling, LFI/Path Traversal, Sudoers Wildcard Abuse (`nice`) | [View Report](./OffSec/Potato/README.md) |
 
 
