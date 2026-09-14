@@ -33,6 +33,7 @@ Unlike standard CTF walkthroughs, the reports herein focus heavily on:
 | **TryHackMe** | **Simple CTF** | Linux | Easy | Anonymous FTP, Time-Based SQLi (CVE-2019-9053), Sudo Misconfig (`vim`) | [View Report](./TryHackMe/Simple_CTF/README.md) |
 | **TryHackMe** | **Enterprise** | Windows | Hard | AD Recon, OSINT (GitHub), SMB Exfiltration, Kerberoasting (GetUserSPNs), RDP | [View Report](./TryHackMe/Enterprise/README.md) |
 | **TryHackMe** | **GamingServer** | Linux | Easy | OSINT, RSA Offline Cracking (`ssh2john`), LXD/LXC Namespaces PrivEsc | [View Report](./TryHackMe/GamingServer/README.md) |
+| **TryHackMe** | **Ice** | Windows | Easy | Icecast BOF, UAC EventVwr Bypass, Process Migration, LSASS/Mimikatz | [View Report](./TryHackMe/Ice/README.md) |
 | **HackTheBox** | **Dancing** | Windows | Very Easy | SMB Shares (Port 445), Null Sessions, ACLs vs NTFS, Data Leakage | [View Report](./HackTheBox/Dancing/README.md) |
 | **HackTheBox** | **Fawn** | Linux | Very Easy | FTP RFC 959, Extended Passive Mode (EPSV), Anonymous Exfiltration | [View Report](./HackTheBox/Fawn/README.md) |
 | **HackTheBox** | **Meow** | Linux | Very Easy | Cleartext Protocols (Telnet), PAM Mechanics, Null Password Hash | [View Report](./HackTheBox/Meow/README.md) |
