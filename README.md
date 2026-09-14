@@ -46,6 +46,7 @@ Unlike standard CTF walkthroughs, the reports herein focus heavily on:
 | **HackTheBox** | **Vaccine** | Linux | Easy | Offline Cracking (MD5/Zip), PostgreSQL `COPY FROM PROGRAM`, GTFOBins `vi` Escape | [View Report](./HackTheBox/Vaccine/README.md) |
 | **HackTheBox** | **Archetype** | Windows | Very Easy | MSSQL Windows Auth, Egress Bypassing, LOLBins (`certutil`), PSReadLine History | [View Report](./HackTheBox/Archetype/REDME.md) |
 | **HackTheBox** | **Oopsie** | Linux | Easy | IDOR (Cookie Manipulation), File Upload, Hardcoded Credentials, SUID PATH Hijacking | [View Report](./HackTheBox/Oopsie/README.md) |
+| **HackTheBox** | **DanglingTree** | Windows | Medium | WAC API RCE, SmarterMail SSRF/RCE, DPAPI Abuse, AD CS ESC4 | [View Report](./HackTheBox/DanglingTree/README.md) |
 | **OffSec** | **Potato** | Linux | Fundamental | PHP `strcmp` Type Juggling, LFI/Path Traversal, Sudoers Wildcard Abuse (`nice`) | [View Report](./OffSec/Potato/README.md) |
 
 
