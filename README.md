@@ -50,6 +50,7 @@ Unlike standard CTF walkthroughs, the reports herein focus heavily on:
 | **HackTheBox** | **DanglingTree** | Windows | Medium | WAC API RCE, SmarterMail SSRF/RCE, DPAPI Abuse, AD CS ESC4 | [View Report](./HackTheBox/DanglingTree/README.md) |
 | **HackTheBox** | **Cohort** | Linux | Easy | Nginx SSRF (IP Obfuscation), Marimo WS RCE, PackageKit TOCTOU LPE | [View Report](./HackTheBox/Cohort/README.md) |
 | **OffSec** | **Potato** | Linux | Fundamental | PHP `strcmp` Type Juggling, LFI/Path Traversal, Sudoers Wildcard Abuse (`nice`) | [View Report](./OffSec/Potato/README.md) |
+| **OffSec** | **SunsetDecoy** | Linux | Fundamental | Dir Listing, Hash Cracking, rbash Bypass, Chkrootkit LPE | [View Report](./OffSec/SunsetDecoy/README.md) |
 
 
 ---
