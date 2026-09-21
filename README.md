@@ -49,6 +49,7 @@ Unlike standard CTF walkthroughs, the reports herein focus heavily on:
 | **HackTheBox** | **Oopsie** | Linux | Easy | IDOR (Cookie Manipulation), File Upload, Hardcoded Credentials, SUID PATH Hijacking | [View Report](./HackTheBox/Oopsie/README.md) |
 | **HackTheBox** | **DanglingTree** | Windows | Medium | WAC API RCE, SmarterMail SSRF/RCE, DPAPI Abuse, AD CS ESC4 | [View Report](./HackTheBox/DanglingTree/README.md) |
 | **HackTheBox** | **Cohort** | Linux | Easy | Nginx SSRF (IP Obfuscation), Marimo WS RCE, PackageKit TOCTOU LPE | [View Report](./HackTheBox/Cohort/README.md) |
+| **HackTheBox** | **Odyssey** | Linux/Windows | Insane | MongoDB Injection, Go Memory Loaders, DPAPI Oracle, Insecure Deserialization | [View Report](./HackTheBox/Odyssey/README.md) |
 | **OffSec** | **Potato** | Linux | Fundamental | PHP `strcmp` Type Juggling, LFI/Path Traversal, Sudoers Wildcard Abuse (`nice`) | [View Report](./OffSec/Potato/README.md) |
 | **OffSec** | **SunsetDecoy** | Linux | Fundamental | Dir Listing, Hash Cracking, rbash Bypass, Chkrootkit LPE | [View Report](./OffSec/SunsetDecoy/README.md) |
 | **OffSec** | **Geisha** | Linux | Fundamental | Web Fuzzing, Info Disclosure, SSH Bruteforce, SUID Abuse (base32) | [View Report](./OffSec/Geisha/README.md) |
